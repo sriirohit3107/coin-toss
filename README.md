@@ -12,4 +12,4 @@ A simple Coin Toss game built using React. The app allows users to flip a virtua
 ## Installation
 
 1. Clone the repository:
-2. git clone https://github.com/your-username/coin-toss-game.git
+2. git clone [https://github.com/your-username/coin-toss-game.git](https://github.com/sriirohit3107/coin-toss.git)
